@@ -1,0 +1,39 @@
+*
+{
+  padding:0px;
+  margin:0px;
+  align-items: center;
+  
+}
+button
+{
+  width: 30px;
+  height:30px;
+  background-color:hotpink;
+  font-weight: bold;
+  border-radius: 50%;
+}
+#display
+{
+  width: 135px;
+  height: 40px;
+  background-color: darkgray;
+  
+}
+body
+{
+  border-style: dashed;
+  width: 135px;
+}
+button:hover
+{
+  background-color: black;
+}
+button:active
+{
+  background-color:blue;
+}
+.opert-btn
+{
+  background-color: brown;
+}
